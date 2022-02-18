@@ -7,9 +7,9 @@ Original file is located at
     https://colab.research.google.com/drive/1NCMHhu00GeU93woWaN8S-TuZ2Ny0MdAc
 """
 
-!pip install --pre deepchem
+pip install --pre deepchem
 
-!pip install streamlit
+pip install streamlit
 
 import streamlit as st
 
